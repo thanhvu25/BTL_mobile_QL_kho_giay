@@ -1,0 +1,7 @@
+Android Studio
+JDK 17
+Android SDK
+Gradle
+Java
+SQLite
+Minimum Android version: Android 8.0

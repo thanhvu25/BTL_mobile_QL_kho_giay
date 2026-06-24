@@ -1,0 +1,16 @@
+# Demo
+
+Các bước demo nhanh:
+
+1. Mở project bằng Android Studio.
+2. Chạy ứng dụng trên máy ảo Android hoặc điện thoại thật.
+3. Đăng nhập bằng tài khoản mẫu:
+   - Tên đăng nhập: admin
+   - Mật khẩu: 123
+4. Thử các chức năng:
+   - Quản lý sản phẩm
+   - Quản lý loại sản phẩm
+   - Quản lý nhà cung cấp
+   - Nhập kho
+   - Xuất kho
+   - Thống kê tồn kho

@@ -1,0 +1,17 @@
+# Data
+
+Ứng dụng sử dụng cơ sở dữ liệu SQLite nội bộ.
+
+Cơ sở dữ liệu được tạo tự động khi chạy ứng dụng lần đầu.
+
+Các bảng chính:
+- TaiKhoan
+- LoaiSP
+- NhaCungCap
+- SanPham
+- NhapKho
+- XuatKho
+
+Tài khoản mẫu:
+- Tên đăng nhập: admin
+- Mật khẩu: 123
