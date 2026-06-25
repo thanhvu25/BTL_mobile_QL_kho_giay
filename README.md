@@ -44,16 +44,22 @@ Quy trình hoạt động chính của ứng dụng:
 
 
 Người dùng đăng nhập
+
         ↓
 Truy cập trang chủ
+
         ↓
 Quản lý dữ liệu danh mục
+
         ↓
 Thêm / sửa / xóa / tìm kiếm sản phẩm
+
         ↓
 Thực hiện nhập kho hoặc xuất kho
+
         ↓
 Cập nhật số lượng tồn kho trong SQLite
+
         ↓
 Hiển thị thống kê tồn kho
 
@@ -62,21 +68,21 @@ Hiển thị thống kê tồn kho
 
 Pipeline chi tiết:
 
-1. Tiền xử lý dữ liệu nhập
+a. Tiền xử lý dữ liệu nhập
    * Kiểm tra dữ liệu người dùng nhập.
    * Không cho phép bỏ trống các trường bắt buộc.
    * Kiểm tra số lượng và đơn giá phải hợp lệ.
 
-2. Lưu trữ dữ liệu
+b. Lưu trữ dữ liệu
    * Dữ liệu được lưu vào SQLite.
    * Các bảng có khóa chính, khóa ngoại và ràng buộc dữ liệu.
 
-3. Xử lý nghiệp vụ
+c. Xử lý nghiệp vụ
    * Khi nhập kho, hệ thống cộng thêm số lượng tồn.
    * Khi xuất kho, hệ thống trừ số lượng tồn.
    * Không cho phép xuất kho nếu số lượng tồn không đủ.
 
-4. Thống kê
+d. Thống kê
    * Tính tổng số sản phẩm.
    * Tính tổng số lượng tồn kho.
    * Liệt kê sản phẩm sắp hết hàng.
