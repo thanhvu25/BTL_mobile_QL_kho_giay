@@ -173,36 +173,29 @@ Mật khẩu: 123
 Vào thư mục `demo/` để xem hướng dẫn demo. Quy trình demo đề xuất:
 
 i. Đăng nhập vào hệ thống.
+
 ii. Thêm loại sản phẩm.
+
 iii. Thêm nhà cung cấp.
+
 iv. Thêm sản phẩm.
+
 v. Thực hiện nhập kho.
+
 vi. Thực hiện xuất kho.
+
 vii. Kiểm tra thống kê tồn kho.
 
 
 
-10. Cấu trúc thư mục dự án
-
-QLKhoGiayTheThao/
-│
-├── app/                  # Source code chính của ứng dụng Android
-├── demo/                 # Hướng dẫn demo hoặc ảnh minh họa chạy ứng dụng
-├── data/                 # Mô tả dữ liệu mẫu và cơ sở dữ liệu SQLite
-├── reports/              # Báo cáo Word/PDF
-├── slides/               # Slide thuyết trình PPTX/PDF
-├── requirements.txt      # Môi trường cần thiết để chạy dự án
-├── README.md             # Hướng dẫn sử dụng dự án
-└── .gitignore            # Các file/thư mục không đưa lên GitHub
-
-11. Tác giả
+10. Tác giả
 
 | Họ tên              | Mã sinh viên | Lớp              |
 | ------------------- | ------------ | ---------------- |
 | Nguyễn Thị Thu Sang | 12523073     | 12523T.1         |
 | Vũ Vy Thanh         | 10123295     | 12523T.1         |
 
-12. Công nghệ sử dụng
+11. Công nghệ sử dụng
 
 * Ngôn ngữ lập trình: Java.
 * IDE: Android Studio.
