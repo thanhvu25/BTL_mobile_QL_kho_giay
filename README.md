@@ -172,13 +172,13 @@ Mật khẩu: 123
 
 Vào thư mục `demo/` để xem hướng dẫn demo. Quy trình demo đề xuất:
 
-1. Đăng nhập vào hệ thống.
-2. Thêm loại sản phẩm.
-3. Thêm nhà cung cấp.
-4. Thêm sản phẩm.
-5. Thực hiện nhập kho.
-6. Thực hiện xuất kho.
-7. Kiểm tra thống kê tồn kho.
+i. Đăng nhập vào hệ thống.
+ii. Thêm loại sản phẩm.
+iii. Thêm nhà cung cấp.
+iv. Thêm sản phẩm.
+v. Thực hiện nhập kho.
+vi. Thực hiện xuất kho.
+vii. Kiểm tra thống kê tồn kho.
 
 
 
