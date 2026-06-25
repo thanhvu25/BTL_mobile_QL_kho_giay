@@ -132,7 +132,7 @@ Cần cài đặt:
 Bước 1: Clone project từ GitHub
 
 ```bash
-git clone https://github.com/ten-tai-khoan/QLKhoGiayTheThao.git
+git clone https://github.com/ten-tai-khoan/BTL_mobile_QL_kho_giay.git
 ```
 
 Bước 2: Mở project
@@ -140,7 +140,7 @@ Bước 2: Mở project
 Mở Android Studio, chọn:
 
 ```text
-File → Open → chọn thư mục QLKhoGiayTheThao
+File → Open → chọn thư mục BTL_kho_giay
 ```
 
 Bước 3: Đồng bộ Gradle
